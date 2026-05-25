@@ -2,7 +2,7 @@
 
 Uma aplicação para buscar e gerenciar repositórios do GitHub de forma simples e intuitiva. Digite o repositório desejado e adicione à sua lista pessoal, com persistência de dados no navegador.
 
-## Tecnologias Utilizadas
+## Stacks Utilizadas
 
 - React 18
 - Styled Components
